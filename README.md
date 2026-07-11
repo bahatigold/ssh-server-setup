@@ -1,6 +1,6 @@
 # SSH Remote Server Setup
 
-**Project Page:** https://roadmap.sh/projects/ssh-remote-server
+**Project Page:** https://roadmap.sh/projects/ssh-remote-server-setup
 
 ## Overview
 Configured a secure remote access environment using OpenSSH on an Ubuntu Linux server. Generated Ed25519 cryptographic keys to establish secure, passwordless authentication and locked down the SSH daemon configuration to reject standard password-based logins, hardening the server against brute-force attacks.
